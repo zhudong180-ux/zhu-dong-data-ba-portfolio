@@ -1,0 +1,5 @@
+# 车型数据清洗工具集 - 依赖清单
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+pandas>=1.3.0
+tqdm>=4.60.0
