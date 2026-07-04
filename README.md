@@ -17,7 +17,6 @@
 | 3️⃣ | **[人脸识别 + 活体检测生产服务](#3-人脸识别--活体检测生产服务)** | Redis 队列 + InsightFace + DeePixBis | [`03-face-recognition-production/`](./03-face-recognition-production/) |
 | 4️⃣ | **[货运调度与风控方案文档](#4-货运调度与风控方案文档)** | 6 份完整技术资产(RL+ACO、3D-BPP、GeoHash、风控) | [`04-freight-scheduling-solutions/`](./04-freight-scheduling-solutions/) |
 | 5️⃣ | **[AIGC 平台与算法原理详解](#5-aigc-平台与算法原理详解)** | SD/ControlNet/LoRA + Tweedie GLM + VRP | [`05-aigc-principles/`](./05-aigc-principles/) |
-| 📚 | **[个人资料 & 面试资料](#-个人资料--面试资料)** | 简历 / Q&A / 算法速查 | [`docs/`](./docs/) |
 
 ---
 
